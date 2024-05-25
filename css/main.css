@@ -1,0 +1,11 @@
+
+.quote {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/never-stop-learning-quote.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+.quote p {
+    margin-block: 20px;
+    font-size: 25px;
+}
